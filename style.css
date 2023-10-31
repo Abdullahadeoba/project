@@ -1,0 +1,41 @@
+
+.boss{
+    background-color: #6d1830;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+}
+.head{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bolder;
+    gap: 20px;
+}
+.showcase:hover{
+    text-decoration: underline solid 2px brown;
+}
+.facilis:hover{
+    text-decoration: underline solid 2px brown;
+}
+.game:hover{
+    text-decoration: underline solid 2px brown;
+}
+.google:hover{
+    text-decoration: underline solid 2px brown;
+}
+.camera:hover{
+    text-decoration: underline solid 2px brown;
+}
+
+.padd{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.up{
+    background: url(/img/Rectangle\ 55rectangle.png);
+}
+.form{
+    background: url(/img/Rectangle\ 55rectangle.png);
+}
+
